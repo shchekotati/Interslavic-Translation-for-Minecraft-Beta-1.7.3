@@ -17,7 +17,7 @@ To ensure maximum accessibility across the Slavic community, this localization s
 ## ⚙️ Installation Guide
 
 ### For Players
-1. **Install Mod:** First, you need to install the [Translated Legacy](https://modrinth.com) mod for Babric.
+1. **Install Mod:** First, you need to install the [Translated Legacy](https://modrinth.com/mod/translated-legacy) mod for Babric.
 2. **Locate Folder:** Navigate to your configuration directory: `.minecraft/config/translated-legacy/b1.7.3/`
 3. **Add Language File:** Choose your preferred script from this repository and copy it into that folder:
    * **For Cyrillic:** Drop `isv-c.json` there and rename it to `isv.json`
