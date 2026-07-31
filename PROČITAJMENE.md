@@ -17,7 +17,7 @@ Da by dostaviti maksimalnu dostupnost dlja vsej slovjanskoj občiny, ta lokaliza
 ## ⚙️ Instrukcija po instalacije
 
 ### Dlja igračev
-1. **Ustanovite mod:** Izprva vam trěba ustanoviti mod [Translated Legacy](https://modrinth.com) dlja Babric.
+1. **Ustanovite mod:** Izprva vam trěba ustanoviti mod [Translated Legacy](https://modrinth.com/mod/translated-legacy) dlja Babric.
 2. **Najdite papku:** Prějdite v papku s konfigom: `.minecraft/config/translated-legacy/b1.7.3/`
 3. **Dodajte jezykovy fajl:** Izberite želajemu pismennost iz togo repozitorija i skopirujte fajl v tu papku:
    * **Dlja kirilicy:** Zakydnite tudy `isv-c.json` i prěimenujte jego v `isv.json`
